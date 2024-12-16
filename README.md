@@ -5,7 +5,7 @@ Aplikasi Web Cuaca dan Data Geospasial
 ---
 
 ## 📝 **2. Deskripsi Produk**  
-**Smart Tracking of Real-Time Meteorology** adalah platform berbasis web interaktif yang dirancang untuk memvisualisasikan **data cuaca** dan **data geospasial**. Pengguna dapat mengeksplorasi data aliran sungai secara mendetail pada peta, mengelola data cuaca melalui sistem backend yang handal, dan menikmati antarmuka modern yang responsif.
+**Smart Tracking of Real-Time Meteorology** adalah platform web interaktif yang memudahkan pengguna untuk melihat **data cuaca** dan **data geospasial**. Dengan platform ini, pengguna dapat mempelajari data aliran sungai secara detail di peta, mengelola data cuaca melalui sistem backend yang kuat, serta menikmati tampilan antarmuka yang modern dan responsif.
 
 Baik Anda seorang **peneliti**, **pengamat cuaca**, atau individu yang tertarik dengan data geografis, platform ini menyediakan alat yang Anda butuhkan untuk memahami tren cuaca dan spasial dengan lebih baik.
 
@@ -83,9 +83,49 @@ Jelajahi data geospasial seperti aliran sungai dengan popup interaktif.
      - **Total Curah Hujan (mm)** untuk setiap **provinsi** di Indonesia.  
    - Provinsi yang ditampilkan antara lain:  
      - Aceh, Riau, Bengkulu, Jawa Tengah, Yogyakarta, Papua, dll.
-   ![image](https://github.com/user-attachments/assets/2b838491-9e57-434a-a6af-1c75250ce5cf)
+       
+      ![image](https://github.com/user-attachments/assets/2b838491-9e57-434a-a6af-1c75250ce5cf)
+
+5. **🤖 Chatbot Interaktif**  
+   - **Fungsi Chatbot**:    
+     - Menjawab pertanyaan seputar:  
+       - Cuaca di [nama kota].
+       - Cuaca [nama kota] [angka] jam ke depan.
+       - Risiko banjir [sedang].  
+       - Risiko banjir [tinggi].  
+   - **Teknologi yang digunakan**:  
+     - Implementasi chatbot berbasis JavaScript dengan dukungan backend untuk integrasi data cuaca.  
+   - **Akses**:  
+     - Chatbot tersedia di pojok kanan bawah halaman peta.
+       
+      ![image](https://github.com/user-attachments/assets/d2b02bb6-0213-4550-b5c0-852b41d396b2)
+
+6. **📝 Kontribusi Pengguna untuk Informasi Tambahan**  
+   - Pengguna dapat menambahkan informasi lokasi baru dengan mengisi **keterangan** pada formulir input.  
+   - Fitur ini memungkinkan kontribusi data dari pengguna terkait:  
+     - Lokasi rawan bencana (banjir, badai, dll.).  
+     - Observasi cuaca langsung.  
+   - Data yang dikirimkan akan ditampilkan pada tabel **Informasi Lokasi** dan **Marker** di peta.
+   ![image](https://github.com/user-attachments/assets/8e6d347b-9f35-4dae-913b-1354c89ee5c8) ![image](https://github.com/user-attachments/assets/3d562fd6-fd9b-4b11-8b61-10efe2b7aa87)
+
+7. **🗺️ Detail Informasi Dimanapun pada Peta**  
+   - Klik pada titik lokasi pada peta untuk menampilkan **informasi cuaca terkini**:  
+     - **Koordinat Lokasi**: Latitude dan Longitude.  
+     - **Cuaca Saat Ini**: Kondisi cuaca (contoh: berawan, cerah, hujan).  
+     - **Suhu**: Informasi suhu dalam derajat Celcius (°C).  
+     - **Kelembapan**: Tingkat kelembapan udara dalam persentase.  
+     - **Prakiraan Curah Hujan**: Total curah hujan dalam 24 jam ke depan (mm).  
+     - **Risiko Banjir**: Status risiko banjir (Rendah, Sedang, Tinggi).
+     - Fitur ini memungkinkan pengguna untuk **mengecek detail cuaca di lokasi manapun** yang ditandai pada peta.
+       
+     ![image](https://github.com/user-attachments/assets/92b9180b-3a18-425c-857d-b85197151904)
 
 
+
+
+
+## **Ringkasan**  
+Bagian **Eksplorasi Platform** mencakup peta interaktif dengan detail informasi cuaca terkini di titik mana saja pada peta, tabel informasi lokasi, grafik intensitas hujan, chatbot interaktif, serta kontribusi pengguna dalam menambahkan informasi tambahan. Dengan fitur ini, pengguna dapat memahami data cuaca secara real-time dengan mudah dan akurat.  
 
 ---
 
