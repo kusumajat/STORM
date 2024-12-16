@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WebGIS dengan Informasi Cuaca dan Prediksi Banjir</title>
+  <!-- Tambahkan link ke CSS Bootstrap -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <!-- Tambahkan stylesheet custom -->
+  <link rel="stylesheet" href="style.css">
+  <!-- Tambahkan stylesheet Leaflet -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <!-- Tambahkan stylesheet landing.css -->
+  <link rel="stylesheet" href="landing.css">
+  <!-- Tambahkan font-awesome CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+  <!-- Tambahkan font Poppins -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <!-- Navbar -->
+  <header class="header">
+    <div class="container">
+      <div class="logo">STORM</div>
+      <nav>
+        <ul class="nav-links">
+          <li><button class="nav-button"><a href="index.html">Home</a></button></li>
+          <li><button class="nav-button"><a href="services.html">Services</a></button></li>
+          <li><button class="nav-button" id="contact-btn">Contact</button></li>
+          <li><button class="nav-button" id="download-button">Download Report</button></button></li>
+
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Kontainer Peta -->
+  <div id="map"></div>
+
+  <div class="chart-container">
+    <h3>Grafik Intensitas Hujan</h3>
+    <canvas id="rainIntensityChart" width="800" height="600"></canvas>
+  </div>
+
+  <!-- Tombol Chatbot -->
+  <button id="chatbot-toggle">💬</button>
+
+  <!-- Kontainer Chatbot -->
+  <div id="chatbot-container">
+    <div id="chatbot-header">Chatbot</div>
+    <div id="chatbot-messages"></div>
+    <div id="chatbot-input">
+      <input type="text" id="user-input" placeholder="Ketik pesan di sini..." />
+      <button id="send-button">Send</button>
+    </div>
+  </div>
+
+  <!-- Tabel -->
+  <div id="floating-table">
+    <h3>Informasi Lokasi</h3>
+    <table id="location-table">
+      <thead>
+        <tr>
+          <th>No</th>
+          <th>Latitude</th>
+          <th>Longitude</th>
+          <th>Keterangan</th>
+          <th>Aksi</th>
+        </tr>
+      </thead>
+      <tbody>
+
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Popup Section -->
+  <div class="popup" id="popup">
+    <div class="popup-content">
+      <span class="close-btn" id="close-popup">&times;</span>
+      <h2>Contact Us</h2>
+      <ul class="social-links">
+        <li><a href="https://www.linkedin.com/in/risma-kusumajati" target="_blank"><i class="fab fa-linkedin fa-lg"></i>
+            LinkedIn</a></li>
+        <li><a href="https://github.com/kusumajat" target="_blank"><i class="fab fa-github fa-lg"></i> GitHub</a></li>
+        <li><a href="https://www.instagram.com/kusumaj_ris/profilecard/?igsh=MWtxN2tnN3dnNTd6YQ==" target="_blank"><i
+              class="fab fa-instagram fa-lg"></i> Instagram</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Tambahkan script Leaflet -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <!-- Tambahkan script JavaScript custom -->
+  <script src="script.js"></script>
+  <!-- Tambahkan script Bootstrap JS dan dependensi Popper.js -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <!-- Tambahkan script popup.js -->
+  <script src="popup.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</body>
+
+</html>
