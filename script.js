@@ -1,5 +1,5 @@
 // API Key OpenWeatherMap
-const apiKey = 'd69b232e7e3933b8a95cf879337eaaa1';
+const apiKey = 'Your OpenWeatherMap API';
 
 // Inisialisasi peta
 const map = L.map('map').setView([-3.528435966366207, 116.5278919953454], 6);
