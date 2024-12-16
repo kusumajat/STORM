@@ -25,12 +25,9 @@ Aplikasi Web Cuaca dan Data Geospasial
 
 Baik Anda seorang **peneliti**, **pengamat cuaca**, atau individu yang tertarik dengan data geografis, platform ini menyediakan alat yang Anda butuhkan untuk memahami tren cuaca dan spasial dengan lebih baik.
 
-
-
 ---
 
 ## 🛠️ **Dibangun Dengan**
-
 ### **Frontend**  
 - **HTML**: Membuat struktur halaman web.
    - `indeh.html` - Halaman landing page.
