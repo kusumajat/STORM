@@ -102,6 +102,7 @@ Jelajahi data geospasial seperti aliran sungai dengan popup interaktif.
      - Menjawab pertanyaan seputar:  
        - Cuaca di [nama kota].
        - Cuaca [nama kota] [angka] jam ke depan.
+       - Banjir di [nama kota].
        - Risiko banjir [sedang].  
        - Risiko banjir [tinggi].  
    - **Teknologi yang digunakan**:  
