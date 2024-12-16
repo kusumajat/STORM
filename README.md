@@ -21,7 +21,7 @@ Aplikasi Web Cuaca dan Data Geospasial
 
 ---
 
-## 📝 **1. Deskripsi Produk**  
+## 📝 **Deskripsi Produk**  
 **Smart Tracking of Real-Time Meteorology** adalah platform web interaktif yang memudahkan pengguna untuk melihat **data cuaca** dan **data geospasial**. Dengan platform ini, pengguna dapat mempelajari data aliran sungai secara detail di peta, mengelola data cuaca melalui sistem backend yang kuat, serta menikmati tampilan antarmuka yang modern dan responsif.
 
 Baik Anda seorang **peneliti**, **pengamat cuaca**, atau individu yang tertarik dengan data geografis, platform ini menyediakan alat yang Anda butuhkan untuk memahami tren cuaca dan spasial dengan lebih baik.
@@ -30,7 +30,7 @@ Baik Anda seorang **peneliti**, **pengamat cuaca**, atau individu yang tertarik 
 
 ---
 
-## 🛠️ **2. Dibangun Dengan**
+## 🛠️ **Dibangun Dengan**
 
 ### **Frontend**  
 - **HTML**: Membuat struktur halaman web.
@@ -60,7 +60,7 @@ Elemen visual untuk meningkatkan pengalaman pengguna:
 
 ---
 
-## 🌐 **3. Sumber Data**  
+## 🌐 **Sumber Data**  
 - **Badan Informasi Geospasial**:  
   Data Jaringan Sungai & Provinsi seluruh Indonesia.  
 
@@ -75,7 +75,7 @@ Elemen visual untuk meningkatkan pengalaman pengguna:
 
 ---
 
-## 📸 **4. Screenshots**
+## 📸 **Screenshots**
 
 ### 🔖 **Landing Page**  
 Halaman utama menyambut pengguna dengan antarmuka yang bersih dan profesional.  
@@ -94,11 +94,11 @@ Jelajahi data geospasial seperti aliran sungai dengan popup interaktif.
 
 ## 🚀 **Eksplorasi Platform**  
 ### **Fitur Utama yang Tersedia:**
-1. **📍 Tabel Informasi Lokasi**
+1. 📍 **Tabel Informasi Lokasi**
    - Tabel yang menampilkan informasi cuaca pada lokasi-lokasi tertentu:
 ![image](https://github.com/user-attachments/assets/2e5e6265-be50-42c0-8705-ffe4c9e38c2a)
 
-2. **📊 Grafik Intensitas Hujan**
+2. 📊 **Grafik Intensitas Hujan**
    - Menampilkan **grafik batang** yang menunjukkan:  
      - **Total Curah Hujan (mm)** untuk setiap **provinsi** di Indonesia.  
    - Provinsi yang ditampilkan antara lain:  
@@ -120,7 +120,7 @@ Jelajahi data geospasial seperti aliran sungai dengan popup interaktif.
        
       ![image](https://github.com/user-attachments/assets/d2b02bb6-0213-4550-b5c0-852b41d396b2)
 
-6. **📝 Kontribusi Pengguna untuk Informasi Tambahan**  
+6. 📝 **Kontribusi Pengguna untuk Informasi Tambahan**  
    - Pengguna dapat menambahkan informasi lokasi baru dengan mengisi **keterangan** pada formulir input.  
    - Fitur ini memungkinkan kontribusi data dari pengguna terkait:  
      - Lokasi rawan bencana (banjir, badai, dll.).  
@@ -128,7 +128,7 @@ Jelajahi data geospasial seperti aliran sungai dengan popup interaktif.
    - Data yang dikirimkan akan ditampilkan pada tabel **Informasi Lokasi** dan **Marker** di peta.
    ![image](https://github.com/user-attachments/assets/8e6d347b-9f35-4dae-913b-1354c89ee5c8) ![image](https://github.com/user-attachments/assets/3d562fd6-fd9b-4b11-8b61-10efe2b7aa87)
 
-7. **🗺️ Detail Informasi Dimanapun pada Peta**  
+7. 🗺️ **Detail Informasi Dimanapun pada Peta**  
    - Klik pada titik lokasi pada peta untuk menampilkan **informasi cuaca terkini**:  
      - **Koordinat Lokasi**: Latitude dan Longitude.  
      - **Cuaca Saat Ini**: Kondisi cuaca (contoh: berawan, cerah, hujan).  
