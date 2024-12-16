@@ -16,7 +16,10 @@ Baik Anda seorang **peneliti**, **pengamat cuaca**, atau individu yang tertarik 
 ## 🛠️ **3. Dibangun Dengan**
 
 ### **Frontend**  
-- **HTML**: Membuat struktur halaman web.  
+- **HTML**: Membuat struktur halaman web.
+   - `indeh.html` - Halaman landing page.
+   - `services.html` - Halaman informasi services website.
+   - `map.html` - Halaman tampilan peta.
 - **CSS**: Mendesain tata letak dan tampilan visual.   
    - `style.css` - Style untuk seluruh komponen.  
 - **JavaScript**: Menambahkan interaktivitas dan fungsi dinamis.  
