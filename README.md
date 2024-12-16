@@ -7,12 +7,11 @@ Aplikasi Web Cuaca dan Data Geospasial
 ## 📚 **Daftar Isi**  
 
 1. [📝 Deskripsi Produk](#-deskripsi-produk)
-2. [🛠️ Dibangun Dengan](#-dibangun-dengan)
+2. [🛠️ Dibangun Dengan](#-Dibangun-Dengan)
 3. [🌐 Sumber Data](#-sumber-data)
-4. [📸 Tangkapan Layar](#-tangkapan-layar)  
-5. [🚀 Fitur Utama](#-fitur-utama)  
-   - [🌍 Peta Interaktif](#-1-peta-interaktif)  
-   - [📍 Tabel Informasi Lokasi](#-2-tabel-informasi-lokasi)  
+4. [📸 Tangkapan Layar](#-Screenshots)  
+5. [🚀 Fitur Utama](#-Eksplorasi-Platform)   
+   - [📍 Tabel Informasi Lokasi](#-Tabel-Informasi-Lokasi)  
    - [📊 Grafik Intensitas Hujan](#-3-grafik-intensitas-hujan)  
    - [🤖 Chatbot Interaktif](#-4-chatbot-interaktif)  
    - [📝 Kontribusi Pengguna](#-5-kontribusi-pengguna)  
