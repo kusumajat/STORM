@@ -4,7 +4,24 @@ Aplikasi Web Cuaca dan Data Geospasial
 
 ---
 
-## 📝 **2. Deskripsi Produk**  
+## 📚 **Daftar Isi**  
+
+1. [📝 Deskripsi Produk](#-deskripsi-produk)
+2. [🛠️ Dibangun Dengan](#-dibangun-dengan)
+3. [🌐 Sumber Data](#-sumber-data)
+4. [📸 Tangkapan Layar](#-tangkapan-layar)  
+5. [🚀 Fitur Utama](#-fitur-utama)  
+   - [🌍 Peta Interaktif](#-1-peta-interaktif)  
+   - [📍 Tabel Informasi Lokasi](#-2-tabel-informasi-lokasi)  
+   - [📊 Grafik Intensitas Hujan](#-3-grafik-intensitas-hujan)  
+   - [🤖 Chatbot Interaktif](#-4-chatbot-interaktif)  
+   - [📝 Kontribusi Pengguna](#-5-kontribusi-pengguna)  
+   - [🗺️ Detail Informasi Cuaca](#-6-detail-informasi-cuaca-dimanapun-pada-peta)  
+8. [📬 Kontak](#-kontak)  
+
+---
+
+## 📝 **1. Deskripsi Produk**  
 **Smart Tracking of Real-Time Meteorology** adalah platform web interaktif yang memudahkan pengguna untuk melihat **data cuaca** dan **data geospasial**. Dengan platform ini, pengguna dapat mempelajari data aliran sungai secara detail di peta, mengelola data cuaca melalui sistem backend yang kuat, serta menikmati tampilan antarmuka yang modern dan responsif.
 
 Baik Anda seorang **peneliti**, **pengamat cuaca**, atau individu yang tertarik dengan data geografis, platform ini menyediakan alat yang Anda butuhkan untuk memahami tren cuaca dan spasial dengan lebih baik.
@@ -13,7 +30,7 @@ Baik Anda seorang **peneliti**, **pengamat cuaca**, atau individu yang tertarik 
 
 ---
 
-## 🛠️ **3. Dibangun Dengan**
+## 🛠️ **2. Dibangun Dengan**
 
 ### **Frontend**  
 - **HTML**: Membuat struktur halaman web.
@@ -43,7 +60,7 @@ Elemen visual untuk meningkatkan pengalaman pengguna:
 
 ---
 
-## 🌐 **4. Sumber Data**  
+## 🌐 **3. Sumber Data**  
 - **Badan Informasi Geospasial**:  
   Data Jaringan Sungai & Provinsi seluruh Indonesia.  
 
@@ -58,7 +75,7 @@ Elemen visual untuk meningkatkan pengalaman pengguna:
 
 ---
 
-## 📸 **5. Screenshots**
+## 📸 **4. Screenshots**
 
 ### 🔖 **Landing Page**  
 Halaman utama menyambut pengguna dengan antarmuka yang bersih dan profesional.  
